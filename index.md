@@ -28,6 +28,11 @@ widescreen: true
 - Estos vídeos son un recurso muy utilizado en ciertas propuestas pedagógicas, como en el flipped learning (Davies, Dean, & Ball, 2013).
 
 
+##
+
+Es necesario que las didácticas específicas indaguen sobre el grado de adecuación de estas propuestas de enseñanza-aprendizaje, asegurando de esta forma que la tecnología esté alineada con los objetivos de aprendizaje (Turney, Robinson, Lee, & Soutar, 2009)
+
+
 
 
 # ¿Cómo empieza todo esto? {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.18"}
