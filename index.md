@@ -1,7 +1,7 @@
 ---
 title: Vídeos educativos de matemáticas en línea 
 subtitle: Una reflexión desde los contenidos hasta lo afectivo
-author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 5 de octubre de 2019 <br> Una empresa docente -  Bogotá, Colombia.
+author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 5 de octubre de 2019 <br> Una empresa docente -  Bogotá, Colombia.
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -17,6 +17,18 @@ widescreen: true
 ![](assets/qr.png){width=60%}
 
 [https://pbeltran.github.io/unaempresadocente-videos](https://pbeltran.github.io/unaempresadocente-videos)
+
+
+# ¿Por qué interesarnos en esto?
+
+##
+
+- El fenómeno de los vídeos educativos alojados en plataformas en línea no es nuevo.
+- YouTube™ es aceptado por los estudiantes como medio para el aprendizaje de las matemáticas (Ramírez, 2010). 
+- Estos vídeos son un recurso muy utilizado en ciertas propuestas pedagógicas, como en el flipped learning (Davies, Dean, & Ball, 2013).
+
+
+
 
 # ¿Cómo empieza todo esto? {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.18"}
 
