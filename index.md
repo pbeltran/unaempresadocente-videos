@@ -10,219 +10,84 @@ widescreen: true
 ---
 
 
-# Acceso a la presentación {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
+# Acceso a la presentación {data-background-image="assets/images/pc.jpg" data-background-opacity="0.25"}
 
-## {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.18"}
+## {data-background-image="assets/images/pc.jpg" data-background-opacity="0.18"}
 
 ![](assets/qr.png){width=60%}
 
 [https://pbeltran.github.io/unaempresadocente-videos](https://pbeltran.github.io/unaempresadocente-videos)
 
 
-# ¿Por qué interesarnos en esto?
+# ¿Por qué interesarnos en esto? {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
 ##
 
 - El fenómeno de los vídeos educativos alojados en plataformas en línea no es nuevo.
 - YouTube™ es aceptado por los estudiantes como medio para el aprendizaje de las matemáticas (Ramírez, 2010). 
-- Estos vídeos son un recurso muy utilizado en ciertas propuestas pedagógicas, como en el flipped learning (Davies, Dean, & Ball, 2013).
+- Estos vídeos son un recurso muy utilizado en ciertas propuestas pedagógicas, como en el **flipped learning** (Davies, Dean, & Ball, 2013).
 
 
 ##
 
-Es necesario que las didácticas específicas indaguen sobre el grado de adecuación de estas propuestas de enseñanza-aprendizaje, asegurando de esta forma que la tecnología esté alineada con los objetivos de aprendizaje (Turney, Robinson, Lee, & Soutar, 2009)
+> Es necesario que las didácticas específicas indaguen sobre el grado de adecuación de estas propuestas de enseñanza-aprendizaje, asegurando de esta forma que la tecnología esté alineada con los objetivos de aprendizaje (Turney, Robinson, Lee, & Soutar, 2009)
 
+# Un estudio sobre vídeos de YouTube {data-background-image="assets/images/videos1.jpg" data-background-opacity="0.18"}
 
-
-
-# ¿Cómo empieza todo esto? {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.18"}
-
-## Con una historia
-
-![](assets/images/historia.png){width=80%}
- 
- 
-# Cómo no usar las pelis y las series en el aula {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
- 
 ##
 
->Hobbs (2006) enumera formas no adecuadas de utilización en el aula:
+Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational videos according to specific didactics: the case of mathematics / Los vídeos educativos en línea desde las didácticas específicas: el caso de las matemáticas. _Cultura y Educación, 30_(4), 633-662. doi: 10.1080/11356405.2018.1524651.
+[Enlace](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full)
+
+![](assets/images/rcye.png){width=50%}
+
+## Objetivo del trabajo
+
+En este estudio se describe y se interpreta la faceta epistémica de videos educativos en línea previamente seleccionados, teniendo como objetivo general valorar el grado de adecuación epistémica de los vídeos más vistos por los usuarios en YouTube™.
+
+## Marco teórico y metodología
 
 :::incremental
-
-1. No tener un objetivo instruccional bien definido.
-2. No utilizar la pausa, el rebobinado y no volver a visionar el material.
-3. Que el docente se tome las proyecciones como tiempo de descanso o para preparar otras cosas.
-4. Que el docente desconecte mentalmente en las proyecciones.
-::: 
-
-##
-
-:::incremental
-5. El docente utiliza las proyecciones como una recompensa para su alumnado.
-6. El docente emplea este recurso únicamente para captar la atención del alumnado. 
-7. El docente utiliza el vídeo como una forma de regular el comportamiento del alumnado.
+- Metodología cualitativa, de carácter interpretativo-valorativo.
+- Herramientas teórico-metodológicas del enfoque ontológico-semiótico del conocimiento y la instrucción matemáticos (EOS) (Godino, Batanero, & Font, 2007).
+- Idoneidad didáctica: grado en que un proceso de instrucción reúne ciertas características que permiten calificarlo como adecuado para la adaptación entre los significados personales obtenidos por los alumnos (aprendizaje) y los significados institucionales, ya sean pretendidos o implementados (enseñanza), considerando la influencia del entorno (Godino, 2013). 
 :::
 
+## Idoneidad didáctica
 
-# Cómo se pueden usar las pelis y las series en el aula {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
+![](assets/images/idoneidad.png){width=80%}
 
-## Los gazapos {data-background-image="assets/images/liebredurero.jpg" data-background-opacity="0.25"}
+Fuente: Godino (2013).
 
+## 
+
+
+# Concluyendo
+
+## Una cita para reflexionar
+
+![](assets/images/didmatcita.png){width=100%}
+
+
+
+##
 :::::::::::::: {.columns}
 
 ::: {.column width="55%"}
+ddd
 
-![](assets/images/dragon1.jpg){width=100%}
-![](assets/images/dragon2.png){width=100%}
 
 :::
 
 ::: {.column width="45%"}
 
-
-Una actividad directa es la de detectar un error (Sorando, 2007):
-
-- Gazapos de contexto.
-- Gazapos de concepto, de cálculo y de razonamiento.
-
-:::
-::::::::::::::
-
-## Más actividades
-
-:::incremental
-
-- Resolver una situación que aparece, explícita o implícitamente en el fragmento.
-- Mostrar simplemente el campo de aplicación, no se trata de resolver un problema.
-- Como introducción de un tema o revisión del mismo. #mathtalks
-- Dramatización.
-
-:::
-
-
-# Líneas de investigación {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
-
-## Trabajos Fin de Grado
-
-:::::::::::::: {.columns}
-
-::: {.column width="35%"}
-
-![](assets/images/Imagen2.png){width=45%} ![](assets/images/Imagen3.png){width=45%}
-
-![](assets/images/Imagen4.jpg){width=80%} 
-![](assets/images/Imagen5.jpg){width=80%} 
-
-
-:::
-
-::: {.column width="60%"}
-Universidad de Zaragoza
-
-- Alicia Modrego (EI): _La patrulla canina_, _Equipo Umizoomi_.
-- Alejandro Abril (EP): _La casa de Mickey Mouse_.
-- Raquel Vela (EI): _Peppa Pig_, _Pocoyó_, _Las aventuras de Coco Drula_.
-- Ana Galindo (EI) 
+ddd
 
 :::
 ::::::::::::::
 
 
 
-
-## Artículos y congresos
-
-Sección _Matemáticas animadas_ en [EDMA0-6](http://www.edma0-6.es/index.php/edma0-6).
-
-Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2018). Análisis del conteo como contenido matemático en un episodio de dibujos animados para educación infantil. _Unión, 52_, 236-249. [Enlace](http://asenmacformacion.com/ojs/index.php/union/article/view/276/pdf)
-
-Beltrán-Pellicer, P., Arnal-Bailera, A., & Muñoz-Escolano, J. M. (2017). Análisis ontosemiótico de un episodio de dibujos animados con contenido matemático. En _CIVEOS 2_. [Enlace](http://enfoqueontosemiotico.ugr.es/civeos/beltran.pdf)
-
-Jornada de Educación Matemática en Aragón (JEMA)
-
-# ¿Qué matemáticas hay aquí? {data-background-image="assets/images/peppa1.jpg" data-background-opacity="0.25"}
-
-##
-
-![](assets/images/peppa1.jpg){width=80%} 
-
-Puesta en común...
-
-
-# ¿Nos ponemos gafas matemáticas? {data-background-image="assets/images/bigbang.gif" data-background-opacity="0.75"}
-
-## 
-
-:::incremental
-
-- Situaciones-problema: aplicaciones extra-matemáticas, tareas, ejercicios, etc.
-- Lenguajes (en sentido amplio): términos, expresiones, notaciones, gráficos, etc. Diversos registros (escrito, oral, gestual, etc.) y representaciones.
-- Propiedades y otros enunciados: conceptos-definición, propiedades y proposiciones.
-- Procedimientos: algoritmos, operaciones, técnicas de cálculo, etc.
-- Argumentos:para validar o explicar las proposiciones y procedimientos, deductivos o de otro tipo.
-:::
-
-
-# Un episodio sobre estimación {data-background-image="assets/images/cyber02.png" data-background-opacity="0.22"}
-
-## ¿Qué sabemos de estimación? {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
-
->Contenido común a infantil, primaria y secundaria.
-¿En qué consiste la estimación?
-
-:::incremental
-- Valorar una cantidad o el resultado de una operación aritmética.
-- El sujeto que hace la valoración tiene alguna información, referencia o experiencia sobre la situación que debe enjuiciar.
-- La valoración se realiza por lo general de forma mental.
-:::
-
-## {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
-
-:::incremental
-- Se hace con rapidez y empleando números lo más sencillos posibles.
-- El valor asignado no es exacto, pero sí adecuado para tomar decisiones.
-- Se admiten distintas aproximaciones al valor dependiendo de quién realice la valoración. (Segovia, Castro, Rico y Castro, 1989).
-- Relacionada con el desarrollo del sentido numérico, numeracy, competencia matemática,... 
-:::
-
-## Cyberchase {data-background-image="assets/images/cyber02.png" data-background-opacity="0.1"}
-
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-
-![](assets/images/cyber1.png){width=100%} 
-
-:::
-
-::: {.column width="45%"}
-![](assets/images/cyber2.png){width=100%} 
-
-:::
-::::::::::::::
-
-
-# Conclusiones
-
-## 
-
-- Concienciarnos acerca de la existencia de recursos que no vienen en libros de texto y que están accesibles en la casa de nuestros alumnos: los dibujos animados, muchos de ellos producidos con una intencionalidad educativa.
-- No promovemos que se vea más TV. Asumimos que se ve.
-
-##
-
-- Muchas maneras de llevarlo al aula: 
-	- Gazapos, detener un episodio, resolver problemas, como introducción ofreciendo un contexto, dramatización, etc.
-- Necesidad de tener herramientas para analizar el recurso y diseñar las secuencias didácticas.
-- Aquí hemos usado los dibujos, pero el proceso seguido sirve para cualquier otro recurso (juegos, manipulables, libros de texto).
-- Futuras vías de colaboración o investigación.
-
-# Para terminar: ¿nos ponemos a prueba {data-background-image="assets/images/caramelos.png" data-background-opacity="0.25"}
-
-##
-
-![](assets/images/caramelos.png){width=65%}
 
 # Créditos y referencias
 
