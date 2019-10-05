@@ -14,7 +14,7 @@ widescreen: true
 
 ## {data-background-image="assets/images/pc.jpg" data-background-opacity="0.18"}
 
-![](assets/qr.png){width=60%}
+![](assets/qr.png){width=50%}
 
 [https://pbeltran.github.io/unaempresadocente-videos](https://pbeltran.github.io/unaempresadocente-videos)
 
@@ -117,13 +117,13 @@ Las **situaciones-problemas** tienen un rol central en el EOS, de modo que los o
 Bajo esta perspectiva ontosemiótica, la actividad matemática se puede describir y analizar a partir de una ontología explícita de objetos (Godino et al., 2007):
 
 :::incremental
-- **Lenguajes** (en sus diversos registros y representaciones, natural, gestual, simbólico, gráfico, etc.).
-- **Situaciones-problemas** (aplicaciones intra y extra-matemáticas, ejercicios, problemas).
+- **Lenguajes**: en sus diversos registros y representaciones, natural, gestual, simbólico, gráfico, etc..
+- **Situaciones-problemas**: aplicaciones intra y extra-matemáticas, ejercicios, problemas.
 - **Reglas**:
-	- _Conceptos-definición_ (conceptos introducidos mediante definiciones o descripciones, proporcionalidad, función, etc.).
-	- _Proposiciones_ (enunciados sobre conceptos-definición).
-	- _Procedimientos_ (algoritmos, operaciones, técnicas de cálculo).
-- **Argumentos** (enunciados usados para validar o explicar las proposiciones y procedimientos).
+	- _Conceptos-definición_: conceptos introducidos mediante definiciones o descripciones, proporcionalidad, función, etc.
+	- _Proposiciones_: enunciados sobre conceptos-definición.
+	- _Procedimientos_: algoritmos, operaciones, técnicas de cálculo.
+- **Argumentos**: enunciados usados para validar o explicar las proposiciones y procedimientos.
 :::
 
 ## Objeto matemático de estudio {data-background-image="assets/images/student.jpg" data-background-opacity="0.1"}
